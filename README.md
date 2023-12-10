@@ -27,14 +27,17 @@
 
 Measure the reduction in the number of rides with overlapping pickup or drop-off locations.
 Identify and quantify instances where grouping has effectively minimized detours and improved route efficiency.
+
 2. Vehicle Capacity Utilization:
 
 Track and analyze the utilization of vehicle capacity.
 Measure the increase in the number of passengers accommodated in each vehicle, optimizing capacity for cost efficiency.
+
 3. Operational Efficiency:
 
 Assess the overall operational efficiency of the ride-sharing system.
 Monitor changes in route optimization, pickup and drop-off sequencing, and adherence to scheduled time windows.
+
 4. Cost Savings:
 
 Evaluate cost savings resulting from reduced vehicle mileage, fuel consumption, and improved vehicle capacity utilization.
